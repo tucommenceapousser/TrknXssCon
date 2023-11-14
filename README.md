@@ -22,7 +22,7 @@ pip install requests
 Commands:
 
 ```bash
-git clone https://github.com/menkrep1337/XSSCon
+git clone https://github.com/tucommenceapousser/TrknXssCon
 chmod 755 -R XSSCon
 cd XSSCon
 python3 xsscon.py --help 
